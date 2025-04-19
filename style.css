@@ -1,0 +1,135 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#900;
+}
+.header{
+	background-color:#FFF;
+	background-image:url(image/PROGRAMERS.jpg);
+	background-position:center;
+	text-align:center;
+	color:#000;
+	width:910px;
+	height:250px;
+	margin-left:160px;
+	margin-bottom:5px;
+}
+.link{
+	background-color:#FFF;
+	color:#000;
+	width:910px;
+	height:20px;
+	margin-left:160px;
+	margin-bottom:5px;
+}
+.slide1{
+	background-color:#CCC;
+	background-image:url(image/Avocor-Future-Trends-2.jpg);
+	background-position:center;
+	color:#000;
+	width:300px;
+	height:250px;
+	margin-left:160px;
+	margin-bottom:5px;
+	position:relative;
+}
+.slide3{
+	background-color:#000;
+	color:#000;
+	width:300px;
+	height:250px;
+	margin-left:770px;
+	margin-top:-255px;
+	margin-bottom:5px;
+}
+.slide2{
+	background-color:#CCC;
+	color:#000;
+	width:300px;
+	height:250px;;
+	margin-left:465px;
+	margin-top:-255px;
+	margin-bottom:5px;
+}
+.slide4{
+	background-color:#CCC;
+	color:#000;
+	width:300px;
+	height:250px;
+	margin-left:160px;
+	margin-bottom:1px;	
+}
+.slide6{
+	background-color:#CCC;
+	color:#000;
+	width:300px;
+	height:250px;
+	margin-left:770px;
+	margin-top:-255px;
+	margin-bottom:1px;
+}
+.slide5{
+	background-color:#CCC;
+	background-image:url(image/bigstock-computers-with-LCD-screens-in-12239789.jpg);
+	background-position:center;
+	color:#000;
+	width:300px;
+	height:250px;
+	margin-left:465px;
+	margin-top:-250px;
+	margin-bottom:4px;
+}
+.slide7{
+	background-color:#000;
+	background-image:url(image/Laptop.jpg);
+	background-position:center;
+	color:#000;
+	width:300px;
+	height:240px;
+	margin-left:160px;
+	margin-bottom:10px;
+	margin-top:6px;
+}
+.slide9{
+	background-color:#000;
+	background-image:url(image/gradient-top-view-laptop-background_52683-6291.jpg);
+	background-position:center;
+	color:#000;
+	width:300px;
+	height:240px;
+	margin-left:770px;
+	margin-top:-245px;
+	margin-bottom:10px;
+}
+.slide8{
+	background-color:#000;
+	background-image:url(image/I%20C%20T.jpg);
+	background-position:center;
+	color:#000;
+	width:300px;
+	height:240px;
+	margin-left:465px;
+	margin-top:-250px;
+	margin-bottom:6px;
+}
+.footer{
+	background-color:#CCC;
+	text-align:center;
+	color:#000;
+	width:910px;
+	height:30px;
+	margin-left:160px;
+	margin-top:-0px;
+}
+
+a{
+	text-decoration:none;
+	color:#000;
+}
+
+a:hover{
+	text-decoration:blink;
+	color:#F00;
+
+}
+
